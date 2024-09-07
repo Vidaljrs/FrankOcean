@@ -1,4 +1,4 @@
-## Buscando os sons do Frank Ocean? Você veio ao lugar certo!
+## Buscando os sons do Frank Ocean? Você veio ao lugar certo! - Imersão Dev com Google Gemini
 
 O que essa aplicação faz?
 
